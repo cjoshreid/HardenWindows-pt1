@@ -59,7 +59,7 @@ The goal of this project was to enhance the security of a Windows 10 machine in 
   - Explore the implementation of data backups of the Windows 10 machine for protection against ransomware encryption attack.
 
 ### 6. Conclusion
-This project successfully fortified the security posture of the Windows 10 machine through a collaborative approach involving Wazuh vulnerability detection and Microsoft Defender. The combination of proactive vulnerability management and real he combination of proactive vulnerability management and real-time threat protection contributed to a robust defense against potential cyber threats. Continuous monitoring, regular updates, and the integration of additional security measures will be pivotal for sustaining an elevated level of security in the long run.
+This project successfully fortified the security posture of the Windows 10 machine through a collaborative approach involving Wazuh vulnerability detection and Microsoft Defender. The combination of proactive vulnerability management and real he combination of proactive vulnerability management and real-time threat protection contributed to a robust defense against potential cyber threats. Continuous monitoring, regular updates, and the integration of additional security measures will be pivotal for sustaining an elevated level of security in the long run. 
 
 ### References:
 Online tutorials, ChatGPT, Wazuh documentation, Microsoft Defender documentation.
