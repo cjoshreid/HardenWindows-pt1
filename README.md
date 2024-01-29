@@ -59,7 +59,7 @@ The goal of this project was to enhance the security of a Windows 10 machine in 
 This project successfully fortified the security posture of the Windows 10 machine through a collaborative approach involving Wazuh vulnerability detection and Microsoft Defender. The combination of proactive vulnerability management and real
 
 ### References:
-Online tutorials, Wazuh documentation, Microsoft Defender documentation.
+Online tutorials, ChatGPT, Wazuh documentation, Microsoft Defender documentation.
 
 ### Screenshots:
 
