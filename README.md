@@ -54,6 +54,9 @@ The goal of this project was to enhance the security of a Windows 10 machine in 
   
 - **Implement Application Whitelisting:**
   - Explore the implementation of application whitelisting on the Windows 10 machine for additional control over executable files.
+ 
+- **Implement Data Backups:**
+  - Explore the implementation of data backups of the Windows 10 machine for protection against ransomware encryption attack.
 
 ### 6. Conclusion
 This project successfully fortified the security posture of the Windows 10 machine through a collaborative approach involving Wazuh vulnerability detection and Microsoft Defender. The combination of proactive vulnerability management and real
