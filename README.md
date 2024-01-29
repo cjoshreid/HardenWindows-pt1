@@ -8,7 +8,7 @@ The goal of this project was to enhance the security of a Windows 10 machine in 
 - **Background:** The Windows 10 machine was a crucial component in my home lab, and maintaining its security was paramount. Wazuh's ability to detect vulnerabilities provided an opportunity to proactively address potential risks.
 - **Implementation:**
   - Integrated Wazuh agent on the Windows 10 machine to collect security events.
-  - ENABLE VULNERABILITY DETECTOR
+  - ENABLED THE VULNERABILITY DETECTOR
        ```xml
        <vulnerability-detector>
       <enabled>yes</enabled>
@@ -16,7 +16,7 @@ The goal of this project was to enhance the security of a Windows 10 machine in 
       <min_full_scan_interval>6h</min_full_scan_interval>
       <run_on_start>yes</run_on
   - Leveraged Wazuh's vulnerability detection to identify and list Common Vulnerabilities and Exposures (CVEs) affecting the system.
-    - Vulnerability Scan Results
+    - Vulnerability Scan Results of a Fresh Install:
         - Critical: 31
          -  High: 423
          - Medium: 161
@@ -57,3 +57,16 @@ The goal of this project was to enhance the security of a Windows 10 machine in 
 
 ### 6. Conclusion
 This project successfully fortified the security posture of the Windows 10 machine through a collaborative approach involving Wazuh vulnerability detection and Microsoft Defender. The combination of proactive vulnerability management and real
+
+### References:
+Online tutorials, Wazuh documentation, Microsoft Defender documentation.
+
+### Screenshots:
+
+Example of Wazuh Vulnerability Detection Alerts
+
+Microsoft Defender Scan Results
+
+Endpoint Protection Configuration in Microsoft Defender
+
+Example of Patching CVEs using Wazuh and Windows Update
