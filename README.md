@@ -67,9 +67,19 @@ Online tutorials, ChatGPT, Wazuh documentation, Microsoft Defender documentation
 ### Screenshots:
 
 Example of Wazuh Vulnerability Detection Alerts
+  ![screenshot](screen.png)
+  
+Details of CVE
+  ![screenshot](example.png)
+  
+Updating and Patching System
 
-Microsoft Defender Scan Results
+   ![screenshot](update.png)
 
-Endpoint Protection Configuration in Microsoft Defender
+Windows Defender
 
-Example of Patching CVEs using Wazuh and Windows Update
+   ![screenshot](security.png)
+  
+Results of Patching CVEs using Wazuh and Windows Update
+  ![screenshot](results.png)
+    ![screenshot](afterlist.png)
